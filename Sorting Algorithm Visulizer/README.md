@@ -85,7 +85,7 @@ sorting-visualizer/
 ---
 
 ## 👤 Author
-**Your Name**
+Ankit Vishwakarma
 B.Tech (Final Year)
 [LinkedIn](#) • [GitHub](#)
 
