@@ -8,23 +8,26 @@ Built as a B.Tech final year mini-project to strengthen understanding of algorit
 
 ## 📌 Features
 
+- 🎨 **Modern dark-themed UI** — custom rounded buttons, card-based layout, gradient-colored bars
 - Visualizes 5 popular sorting algorithms:
   - Bubble Sort
   - Selection Sort
   - Insertion Sort
   - Merge Sort
   - Quick Sort
-- Adjustable **array size** (10–100 elements)
-- Adjustable **sorting speed**
+- Adjustable **array size** (10–150 elements) via a styled slider
+- Adjustable **sorting speed** (Very Slow → Very Fast)
+- Live **stats dashboard**: comparisons, swaps/writes, elapsed time, and current status
+- Color-coded legend (Comparing / Swapping / Pivot / Sorted)
 - Randomized array generation with one click
-- Live bar-chart animation with color-coded comparisons and swaps
+- Height-based gradient bar coloring (blue → violet) for a cleaner visual read
 - Built entirely with Python's standard library — **no external dependencies**
 
 ---
 
 ## 🖥️ Demo
 
-Bars are compared (red), swapped (orange), and turn green once the array is fully sorted.
+Bars are colored by value on a blue→violet gradient. During sorting: **red** = comparing, **amber** = swapping/writing, **teal** = pivot (Quick Sort), and the whole array turns **green** once fully sorted.
 
 ---
 
